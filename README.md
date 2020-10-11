@@ -1,7 +1,7 @@
 # SpiderAI
 
-*This project is for testing purposes only.
+This project is for testing purposes only.
 
-*Used to understand how AI and State Machine workes in C++.
+Used to understand how AI and State Machine workes in C++.
 
-*Everything has been completed.
+Everything has been completed.
